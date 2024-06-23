@@ -4,5 +4,5 @@
 erDiagram
   Aliment
   Repas
-  Aliment ||--|{ Repas
+  Aliment ||--|{ Repas : is
 ```
